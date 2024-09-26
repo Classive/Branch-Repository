@@ -11,7 +11,7 @@ void merge(int arr[], int l,
 	int i, j, k;
 	int n1 = m - l + 1;
 	int n2 = r - m;
-
+	int n3= m+4-r
 	// Create temp arrays
 	int L[n1], R[n2];
 
