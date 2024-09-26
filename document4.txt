@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(void){
+int dan;
+int num;
+
+while (num<4){
+for (dan=1;dan<9;dan++)[
