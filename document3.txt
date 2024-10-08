@@ -1,4 +1,4 @@
-I want to lunch.. so hungry
+This is computer
 int main(void){
 int i =0
 }
